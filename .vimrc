@@ -1,4 +1,4 @@
-Braxton Cribb
+Nicholas Holshouser
 Had trouble getting VIM to work
 syntax on
 set ruler
